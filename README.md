@@ -1,4 +1,4 @@
-# Project Ideas and Resources by [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👑
+# Project Ideas and Resources by [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👨🏻‍💻
 
 ![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 
