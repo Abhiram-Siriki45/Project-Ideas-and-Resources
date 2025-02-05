@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
-- Great for improving your coding skills :muscle:;
-- Great for experimenting with new technologies 🆕;
-- Great for adding to your portfolio to impress your next employer/client :file_folder:;
-- Great for using as examples in tutorials (articles or videos) :page_with_curl:;
-- Easy to complete and also easily extendable with new features :ok_hand:;
+- Great for Improving your coding skills :muscle:;
+- Great for Experimenting with new technologies 🆕;
+- Great for Adding to your portfolio to impress your next employer/client :file_folder:;
+- Great for Using as examples in tutorials (articles or videos) :page_with_curl:;
+- Easy to Complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
